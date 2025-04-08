@@ -29,14 +29,14 @@ I'm a career changer diving deep into the world of software development. Current
 
 ---
 
-### 📫 Let’s connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/gustavobranquinho2/)  
-- 📧 [gustavobranquinho2@gmail.com](mailto:gustavobranquinho2@gmail.com)
-
----
-
 ### ⚒️ Currently working on
 
 - A mobile app with **React Native + TypeScript**  
 - Exploring backend development with **Node.js**
+
+---
+
+### 📫 Let’s connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavobranquinho2/)  
+- 📧 [gustavobranquinho2@gmail.com](mailto:gustavobranquinho2@gmail.com)
