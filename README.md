@@ -31,8 +31,8 @@ I'm a career changer diving deep into the world of software development. Current
 
 ### 📫 Let’s connect!
 
-- [LinkedIn](https://www.linkedin.com/in/gustavobranquinho2/)  
-- Email: **gustavobranquinho2@gmail.com**
+- 💼 [LinkedIn](https://www.linkedin.com/in/gustavobranquinho2/)  
+- 📧 [gustavobranquinho2@gmail.com](mailto:gustavobranquinho2@gmail.com)
 
 ---
 
