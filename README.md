@@ -2,37 +2,43 @@
 
 ### Hello there! 👋 Welcome to my GitHub profile!
 
-I'm a career changer diving deep into the world of software development. Currently enrolled in the [DEVinHouse program](https://devinhouse.tech/clamed/), I'm focused on building solid foundations in **Mobile Development**, **JavaScript**, **TypeScript**, and **React Native**.
+🖥️ I'm a Software Developer from Brazil with a background in healthcare administration and a strong passion for building software and solving problems. After transitioning into tech, I've been building applications across mobile, web, and backend environments, with a current focus on the Java ecosystem.
+
+🎯 My goal is to become a highly skilled backend engineer by mastering Java, software design principles, databases, and modern backend architectures.
 
 ---
 
 ### 🚀 About Me
 
-- 🎯 Transitioning from healthcare administration to tech  
-- 📚 Currently studying **React Native**, **Node.js**, **TypeScript**, and **Clean Architecture**  
-- 🔧 Technologies I’m currently working with:  
-  `JavaScript`, `TypeScript`, `React Native`, `HTML`, `CSS`, `Node.js`, `Git`, `GitHub`  
+- 💼 Software Developer at CLAMED Farmácias
+- ☕ Focusing on Java backend development
+- 📚 Studying Java, Object-Oriented Programming, Collections, and SQL
+- 🌱 Currently learning the foundations required for Spring Boot and JPA/Hibernate
+- 🛠️ Practicing Design Patterns and Software Architecture
 - 🧠 Passionate about solving problems, optimizing processes, and building useful digital tools  
-- 🛠️ Building real-world projects involving mobile apps and RESTful APIs  
-- 🤝 I enjoy collaborating, learning from others, and continuously improving  
-- 🎮 Fan of RPGs, platformers, and JRPGs (Final Fantasy, The Legend of Zelda, Assassin's Creed, and Dark Souls lover!)
+- 📈 Committed to continuous personal and professional growth.
+
+---
+
+### 🔧 Technologies
+**Worked with:**
+  `TypeScript`, `React`, `Node.js`, `PHP`, `PostgreSQL`, `MySQL`, `Git`, `GitHub`
+  
+**Currently Studying:**
+  `Java`, `Spring Boot`, `JPA/Hibernate`
 
 ---
 
 ### 🧩 Featured Projects
 
-- [🔗 PARAPLUIE](https://github.com/branquinho91/PARAPLUIE) – A mobile app built with **React Native** and **Expo** as the final project of Module 1 in the DEVinHouse FullStack Mobile Developer Program.  
-  Its goal is to manage product transfers between branches and drivers in real time.
-
-- [🔗 PARAPLUIE2](https://github.com/branquinho91/PARAPLUIE2) – A RESTful API built with **Express.js** and **TypeORM**, developed as the final project of Module 2 in the DEVinHouse FullStack Mobile Developer Program.  
-  It provides the backend for the PARAPLUIE mobile app, handling stock transfers across pharmacy branches.
-
+- [🔗 library-manager](https://github.com/branquinho91/library-manager) - A Java 17 console application for library management built using Object-Oriented Programming principles, custom exceptions, layered architecture, and JDBC-based data persistence.
 ---
 
 ### ⚒️ Currently working on
 
-- A mobile app with **React Native + TypeScript**  
-- Exploring backend development with **Node.js**
+- Expanding my Java backend skills
+- Studying Spring Boot and JPA/Hibernate
+- Improving software architecture and database design knowledge
 
 ---
 
