@@ -32,6 +32,8 @@
 ### 🧩 Featured Projects
 
 - [🔗 library-manager](https://github.com/branquinho91/library-manager) - A Java 17 console application for library management built using Object-Oriented Programming principles, custom exceptions, layered architecture, and JDBC-based data persistence.
+- [🔗 library-manager-spring](https://github.com/branquinho91/library-manager-spring) - A Java 17 REST API for library management built with Spring Boot, Spring Data JPA, Hibernate, and PostgreSQL, featuring layered architecture, custom exception handling, and RESTful endpoints.
+
 ---
 
 ### ⚒️ Currently working on
