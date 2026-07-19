@@ -31,8 +31,10 @@
 
 ### 🧩 Featured Projects
 
-- [🔗 library-manager](https://github.com/branquinho91/library-manager) - A Java 17 console application for library management built using Object-Oriented Programming principles, custom exceptions, layered architecture, and JDBC-based data persistence.
+- [🔗 suit-rental-manager-web](https://github.com/branquinho91/suit-rental-manager-web) - A responsive rental management system built with React, TypeScript, and Vite, featuring customer, inventory, product, and rental workflows.
+- [🔗 suit-rental-manager-api](https://github.com/branquinho91/suit-rental-manager-api) - A Java 17 REST API for managing customers, inventory, products, and suit rentals, built with Spring Boot, JPA, and PostgreSQL.
 - [🔗 library-manager-spring](https://github.com/branquinho91/library-manager-spring) - A Java 17 REST API for library management built with Spring Boot, Spring Data JPA, Hibernate, and PostgreSQL, featuring layered architecture, custom exception handling, and RESTful endpoints.
+- [🔗 library-manager](https://github.com/branquinho91/library-manager) - A Java 17 console application for library management built using Object-Oriented Programming principles, custom exceptions, layered architecture, and JDBC-based data persistence.
 
 ---
 
